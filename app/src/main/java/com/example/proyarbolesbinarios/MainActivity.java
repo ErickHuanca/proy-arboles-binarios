@@ -19,19 +19,19 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
     public void euler (View v){
-        Intent intent = new Intent(this, UnoActivity.class);
+        Intent intent = new Intent(this, DosActivity.class);
         startActivity(intent);
     }
     public void preOrden (View v){
-        Intent intent = new Intent(this, UnoActivity.class);
+        Intent intent = new Intent(this, TresActivity.class);
         startActivity(intent);
     }
     public void inOrder (View v){
-        Intent intent = new Intent(this, UnoActivity.class);
+        Intent intent = new Intent(this, CuatroActivity.class);
         startActivity(intent);
     }
     public void postOrder (View v){
-        Intent intent = new Intent(this, UnoActivity.class);
+        Intent intent = new Intent(this, CincoActivity.class);
         startActivity(intent);
     }
     public void salir (View v){

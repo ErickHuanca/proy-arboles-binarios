@@ -27,8 +27,6 @@
         </activity>
         <activity android:name=".CincoActivity">
         </activity>
-        <activity android:name=".SeisActivity">
-        </activity>
 
     </application>
 
