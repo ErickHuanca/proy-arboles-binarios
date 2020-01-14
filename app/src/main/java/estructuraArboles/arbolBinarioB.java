@@ -1,4 +1,4 @@
-package ejerExpo317;
+package estructuraArboles;
 
 public class arbolBinarioB {
 
